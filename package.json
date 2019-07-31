@@ -1,0 +1,19 @@
+{
+  "name": "app-config-generator",
+  "description": "A node project",
+  "version": "1.0.0",
+  "author": "dongjinglong <dongjinglong@zhiketong.cn>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "app-config-generator": "swagger/swagger.js"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.yin126.com:8081/repository/npm_dev/"
+  }
+}
