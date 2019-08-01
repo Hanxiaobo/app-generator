@@ -8,8 +8,8 @@
   "bin": {
     "app-config-generator": "bin/swagger.js"
   },
-  "preversion": "",
-  "postversion": "npm publish",
+  "preversion": "npm publish",
+  "postversion": "",
   "browserslist": [
     "> 1%",
     "last 2 versions",
