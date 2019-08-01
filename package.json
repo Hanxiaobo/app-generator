@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": false,
   "bin": {
-    "app-config-generator": "bin/swagger.js"
+    "app-config-generator": "bin/app-config-generator.js"
   },
   "scripts": {
     "preversion": "",
