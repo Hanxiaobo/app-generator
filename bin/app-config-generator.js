@@ -1,2 +1,4 @@
 #!/usr/bin/env node
-console.log(process.env)
+const getUrl = require('../lib/scheduling');
+
+getUrl(process.argv[3], process.argv[5])
