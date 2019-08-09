@@ -21,11 +21,11 @@ npm run build
 
 在项目中安装 app-config-generator
 
-配置命令：swagger2page: http://39.107.204.205:20000××××××××××（swagger地址放入配置文件）
+配置命令：swagger: app-config-generator --url http://39.107.204.205:20000/merchant-api/v2/api-docs --target /admin/findAdminInfoByAdminId
 
-命令窗口运行命令，并传入接口swagger类型和所需接口地址
+命令窗口运行命令
 
-成功后，项目根目录下会生成page.json文件
+成功后，项目根目录下会生成swagger.json文件
 
 ```
 
