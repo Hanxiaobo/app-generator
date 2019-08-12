@@ -19,5 +19,8 @@
   ],
   "publishConfig": {
     "registry": "http://npm.yin126.com:8081/repository/npm_dev/"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.1"
   }
 }
