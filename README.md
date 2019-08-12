@@ -21,11 +21,12 @@ npm run build
 
 在项目中安装 app-config-generator
 
-配置命令：swagger: app-config-generator --url http://39.107.204.205:20000/merchant-api/v2/api-docs --target /admin/findAdminInfoByAdminId
+配置命令：swagger: app-config-generator http://39.107.204.205:20000/*-api/v2/api-docs
 
 命令窗口运行命令
+npm run swagger merchant-api admin/findAdminInfoByAdminId ajax
 
-成功后，项目根目录下会生成swagger.json文件
+成功后，生成src/appConfig/admin/findAdminInfoByAdminId/ajax.json文件
 
 ```
 
