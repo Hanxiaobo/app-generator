@@ -1,7 +1,7 @@
 {
   "name": "app-config-generator",
   "description": "A node project",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "author": "dongjinglong <dongjinglong@zhiketong.cn>",
   "license": "MIT",
   "private": false,
