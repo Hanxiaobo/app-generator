@@ -26,7 +26,7 @@ npm run build
 命令窗口运行命令
 npm run swagger merchant-api admin/findAdminInfoByAdminId ajax
 
-成功后，生成src/appConfig/admin/findAdminInfoByAdminId/ajax.json文件
+成功后，生成src/appConfig/merchant-api/admin/findAdminInfoByAdminId/ajax.json文件
 
 ```
 
