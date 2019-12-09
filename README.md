@@ -24,8 +24,9 @@ npm run build
 配置命令：swagger: app-config-generator http://39.107.204.205:20000/*-api/v2/api-docs
 
 命令窗口运行命令
-npm run swagger merchant-api admin/findAdminInfoByAdminId ajax
+npm run swagger merchant-api admin/findAdminInfoByAdminId ajax myPath
 
+myPath可指定生成文件路径，若为空
 成功后，生成src/appConfig/merchant-api/admin/findAdminInfoByAdminId/ajax.json文件
 
 ```
