@@ -17,9 +17,6 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "publishConfig": {
-    "registry": "http://npm.yin126.com:8081/repository/npm_dev/"
-  },
   "dependencies": {
     "inquirer": "^6.5.1",
     "pretty-format": "^24.9.0"
