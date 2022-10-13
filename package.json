@@ -2,7 +2,7 @@
   "name": "app-config-generator",
   "description": "A node project",
   "version": "1.0.19",
-  "author": "dongjinglong <dongjinglong@zhiketong.cn>",
+  "author": "hanxiaobo",
   "license": "MIT",
   "private": false,
   "bin": {
@@ -18,7 +18,7 @@
     "not ie <= 8"
   ],
   "dependencies": {
-    "inquirer": "^6.5.1",
+    "inquirer": "^6.5.2",
     "pretty-format": "^24.9.0"
   }
 }
